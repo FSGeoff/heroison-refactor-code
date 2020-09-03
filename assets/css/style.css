@@ -60,14 +60,18 @@ p {
     background-position: center;
 }
 
+ 
+
 .float-left {
     float: left;
     margin-right: 25px;
+    max-height: 200px;
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
+    max-height: 200px;
 }
 
 .content {
@@ -163,10 +167,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*
 #article-image {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
+*/
 /*
 .online-reputation-management img {
     max-height: 200px;
