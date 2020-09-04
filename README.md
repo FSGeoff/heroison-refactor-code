@@ -13,6 +13,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title>
 
+<<<<<<< HEAD
 These were the steps that were taken to in order to
 establish a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines.
@@ -33,5 +34,3 @@ SO THAT our own site is optimized for search engines.
 -consolidated 3 article images
 -moved image to html
 -completed reformatting CSS
-
--->
